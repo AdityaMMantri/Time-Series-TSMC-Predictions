@@ -1,1 +1,7 @@
 EDA/.eda_build
+
+__pycache__
+
+.report_build
+
+outputs
